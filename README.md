@@ -22,7 +22,7 @@
 
 #### 示例：页面标题
 
- ![例子1](zile-newmedia/Ability-Accumulation/例子1.png)
+ ![例子1](http://m.qpic.cn/psc?/V13n1hdE2vQ1fA/M4X34P*UDwP*fok89st23wBGIwFnDkwZCKUG8stNLb5tASZ4CfeZRiNpHKU4gHgI9EtMS.CsdiOkirMRGuUjXw!!/b&bo=UgI4AVICOAEDByI!&rf=viewer_4)
 
 ---
 
@@ -32,7 +32,7 @@
 
 #### 示例：使用标题来组织内容
 
- ![例子2](Ability-Accumulation/例子2.png)
+ ![例子2](http://m.qpic.cn/psc?/V13n1hdE2vQ1fA/8pLzIOZGGDcBctBkTesZqsjVYAXnymxGBLFJrdNYxlWAGJGinnnJVsZEiEdQUrWS.hHQE.FZRIzqPXcp3D3NMmT0B0qBN8d8m3RifM4i770!/b&bo=dgPqAHYD6gADFzI!&rf=viewer_4)
 
 ---
 
@@ -42,7 +42,7 @@
 
 #### 示例：使用链接文本描述目标页面
 
- ![例子3](Ability-Accumulation/例子3.png)
+ ![例子3](http://m.qpic.cn/psc?/V13n1hdE2vQ1fA/8pLzIOZGGDcBctBkTesZqpzG126ODtNJy8PLFdpEy12wbjjJaA1yE.rMXnJlapuopL3.IEsnSDGO*pAxSgjcQ1uXqSpVTSS6wvFYMkOtQq8!/b&bo=eANqAHgDagADFzI!&rf=viewer_4)
 
 ---
 
@@ -52,7 +52,7 @@
 
 #### 示例：使用替代文本传达重要信息
 
- ![例子4](Ability-Accumulation/例子4.png)
+ ![例子4](http://m.qpic.cn/psc?/V13n1hdE2vQ1fA/8pLzIOZGGDcBctBkTesZqlxBLL11ZPml7GJ7FpVXUndZq.4qB5.ZBg2L3gQzcBZe38m.lrDAcfm.0S6FPGpGfFQCM4uLj7r1ShwuED9abIM!/b&bo=ZwRbAWcEWwEDFzI!&rf=viewer_4)
 
 ---
 
@@ -68,11 +68,11 @@
 
 #### 示例1：说明传达用户应提供哪些信息
 
- ![例子5-1](Ability-Accumulation/例子5.1.png)
+ ![例子5-1](http://m.qpic.cn/psc?/V13n1hdE2vQ1fA/8pLzIOZGGDcBctBkTesZqq2Z2Jd*KZ7rm7iQrQG2hJyo6Ep4C04lYhytrNpdPDvQNK2WACa1UViK4TX2B22w9vTQJoXs5oG5erZnH5oCs8M!/b&bo=ugKYALoCmAADFzI!&rf=viewer_4)
  
 #### 示例2：错误指示问题所在以及可能的解决方法
 
- ![例子5-2](Ability-Accumulation/例子5.2.png)
+ ![例子5-2](http://m.qpic.cn/psc?/V13n1hdE2vQ1fA/8pLzIOZGGDcBctBkTesZqtNSwm7HOwyfNDedSreJZUa4t4kR7kPtIMUFlqPSebM.HHSz3tLaasQVUpiESUxDFG*xZRrwkeiSlqp0siSAdVQ!/b&bo=tgF9ALYBfQADFzI!&rf=viewer_4)
 
 ---
 
@@ -88,4 +88,4 @@
 
 #### 示例：使内容易读易懂
 
- ![例子6](Ability-Accumulation/例子6.png)
+ ![例子6](http://m.qpic.cn/psc?/V13n1hdE2vQ1fA/8pLzIOZGGDcBctBkTesZqkcMN3Lr0mIiBB.x*MhWbWJNHv*RH*U4OcsBUXkdxAaOEqWUUwRmnLnBHtXYNW3FTgKhCIRVtZ5wz0q5x19eito!/b&bo=aQQJAmkECQIDFzI!&rf=viewer_4)
