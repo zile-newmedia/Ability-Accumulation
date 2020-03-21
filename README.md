@@ -22,7 +22,7 @@
 
 #### 示例：页面标题
 
- ![例子1](Ability-Accumulation/例子1.png)
+ ![例子1](zile-newmedia/Ability-Accumulation/例子1.png)
 
 ---
 
